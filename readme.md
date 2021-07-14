@@ -1,9 +1,9 @@
 # SQLite Sales Search
 
-Description: program to implement a series of methods that query a database of 1,000 buyer records and 10,000 sales records
-Language: Python
-Project Type: school project, solo
-Purpose: Analyze how to use Python's useful features to parse and examine SQLite databases
+Description: program to implement a series of methods that query a database of 1,000 buyer records and 10,000 sales records<br>
+Language: Python<br>
+Project Type: school project, solo<br>
+Purpose: Analyze how to use Python's useful features to parse and examine SQLite databases<br>
 
 ## Further important information:
 
